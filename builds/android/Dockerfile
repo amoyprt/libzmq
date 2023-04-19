@@ -9,7 +9,7 @@
 # FROM		ubuntu:16.04
 # FROM		ubuntu:18.04
 # FROM		ubuntu:20.04
-FROM		ubuntu:22.04
+FROM		ubuntu:22.10
 
 ENV		DEBIAN_FRONTEND=noninteractive
 
